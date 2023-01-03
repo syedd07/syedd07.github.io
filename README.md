@@ -1,2 +1,5 @@
-Hi!! This Syed Yousuf Ali
-Contact: +91 8152987692
+- 👋 Hi, I’m Syed Yousuf Ali
+- 👀 I’m interested in Devloping Website!!
+- 🌱 I’m currently learning Front-End-Web development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me DM me on insta @syedd07
